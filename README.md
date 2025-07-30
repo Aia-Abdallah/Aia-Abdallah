@@ -5,9 +5,8 @@
 </h1>   
 
 <h3 align="center">
-<img alt="robot waving" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e9d57](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U2NDY0dWhvdmk1Nm5oZ2Jkbm05bXJ6NmZtam5uaGQzODltNDI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfhMsDmb7tHd6/giphy.gif)" width="300"/>
+  <img alt="robot waving" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U2NDY0dWhvdmk1Nm5oZ2Jkbm05bXJ6NmZtam5uaGQzODltNDI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfhMsDmb7tHd6/giphy.gif" width="300"/>
 </h3>
-
 ---
 
 ### 📫 Connect with me
