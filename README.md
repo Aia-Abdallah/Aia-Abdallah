@@ -7,7 +7,7 @@
 <h3 align="center">
   <img alt="robot waving" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U2NDY0dWhvdmk1Nm5oZ2Jkbm05bXJ6NmZtam5uaGQzODltNDI4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfhMsDmb7tHd6/giphy.gif" width="600"/>
 </h3>
----
+
 
 ### 📫 Connect with me
 
@@ -41,5 +41,5 @@
 - 🤖 [Autonomous Line Follower Robot](#)
 - 📷 [Object Detection with OpenCV + Python](#)
 
--
+
 
