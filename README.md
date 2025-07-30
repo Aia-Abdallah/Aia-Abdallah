@@ -4,8 +4,7 @@
 
 </h1>   
 
-<h3 align="center">![black and white ok GIF by Walt Disney Animation Studios](https://github.com/user-attachments/assets/39801554-fd72-4694-9da2-5911dc8ac9a4)
-
+<h3 align="center">
 <img alt="robot waving" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e9d57.gif" width="300"/>
 </h3>
 
