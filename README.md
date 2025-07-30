@@ -38,28 +38,9 @@
 
 ### 🚀 Projects
 
-- 🔍 [Face Recognition Using MATLAB](https://github.com/aya-username/Face-Recognition-By-using-Matlab)
+- 🔍 [Face Recognition Using MATLAB](#)
 - 🤖 [Autonomous Line Follower Robot](#)
 - 📷 [Object Detection with OpenCV + Python](#)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aia-Abdallah&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aia-Abdallah&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
-> Replace `aya-username` with your actual GitHub username.
-
----
-
-### 📝 Blog / Articles
-
-- ✨ [How I Built a Face Recognition GUI in MATLAB](#)
-- 📘 [ROS for Beginners – My Learning Path](#)
-- 🧠 [Understanding OpenCV for Robotics Projects](#)
-
----
+-
 
