@@ -13,7 +13,7 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aya-abdelmoniem/" target="blank">
+  <a href="https://www.linkedin.com/in/aya-abdallah1010/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aya LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -38,22 +38,20 @@
 
 ### 🚀 Projects
 
-- 🔍 [Face Recognition Using MATLAB](https://github.com/Aya-username/Face-Recognition-By-using-Matlab)
+- 🔍 [Face Recognition Using MATLAB](https://github.com/aya-username/Face-Recognition-By-using-Matlab)
 - 🤖 [Autonomous Line Follower Robot](#)
 - 📷 [Object Detection with OpenCV + Python](#)
-
-> Add links to your GitHub project repositories above.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aya-username&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-username&layout=compact&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aia-Abdallah&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aia-Abdallah&layout=compact&theme=tokyonight" width="47%" />
 </p>
 
-> Replace `aya-username` with your GitHub username.
+> Replace `aya-username` with your actual GitHub username.
 
 ---
 
@@ -63,8 +61,5 @@
 - 📘 [ROS for Beginners – My Learning Path](#)
 - 🧠 [Understanding OpenCV for Robotics Projects](#)
 
-> Replace `#` with actual blog or medium links if you have any.
-
 ---
 
-Let me know if you want a PDF version of this or help updating your GitHub repo with it!
