@@ -36,10 +36,12 @@
 ---
 
 ### 🚀 Projects
-
-- 🔍 [Face Recognition Using MATLAB](#)
-- 🤖 [Autonomous Line Follower Robot](#)
-- 📷 [Object Detection with OpenCV + Python](#)
+-  [Autonoumus vehical level 3](#)
+-  [DuoSense_RAG ](#)
+-  [Machine MOdel to prediction Accident ](#)
+-  [Face Recognition Using MATLAB](#)
+- [Autonomous Line Follower Robot](#)
+-  [Object Detection with OpenCV + Python](#)
 
 
 
